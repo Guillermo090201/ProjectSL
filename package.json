@@ -1,0 +1,31 @@
+{
+
+    "name": "App",
+
+    "version": "1.0.0",
+
+    "main": "main.js",
+
+    "devDependencies": {
+
+        "electron": "^12.0.5"
+
+    },
+
+    "scripts": {
+
+        "start": "electron ."
+
+    },
+
+    "dependencies": {
+
+        "datatables.net-dt": "^1.10.24",
+
+        "jquery": "^3.6.0",
+
+        "mysql": "^2.18.1"
+
+    }
+
+}
